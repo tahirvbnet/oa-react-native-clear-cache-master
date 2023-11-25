@@ -7,7 +7,7 @@ This app is a clone of [react-native-clear-app-cache](https://github.com/midas-g
 
 Go:
 
-`npm i oa-react-native-clear-cache --save`
+`npm i oa-react-native-clear-cache-tahir --save`
 
 ### Mostly automatic installation
 
@@ -15,7 +15,7 @@ No need to link as of RN 0.60.
 
 ## Usage
 ```javascript
-import ClearCache from 'oa-react-native-clear-cache';
+import ClearCache from 'oa-react-native-clear-cache-tahir';
 
 // get the storage usage
 ClearCache.getAppCacheSize(data => {

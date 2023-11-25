@@ -44,7 +44,7 @@
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "main": "index.js",
-  "name": "oa-react-native-clear-cache",
+  "name": "oa-react-native-clear-cache-tahir",
   "peerDependencies": {
     "react": "18.2.0",
     "react-native": "0.72.3"
